@@ -1,7 +1,6 @@
 #!/bin/python3
 import json
 import requests
-import os.path
 from os import path
 
 
